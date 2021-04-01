@@ -1,0 +1,18 @@
+.antdTable {
+  margin: 40px 120px;
+  background-color: white;
+}
+
+.antdTable table {
+  border-collapse: collapse;
+}
+.antdTable thead > tr > th {
+  background-color: #1890ff;
+  color: white;
+}
+
+.antdTable thead > tr {
+  border-width: 2px;
+  border-color: #1890ff;
+  border-style: solid;
+}
